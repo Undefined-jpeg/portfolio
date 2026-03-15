@@ -49,13 +49,8 @@ body {
 
 .window {
   background: var(--content-bg);
-  border: 2px solid var(--border-outer);
-  border-top-color: #ffffff;
-  border-left-color: #ffffff;
-  box-shadow:
-    inset 1px 1px 0 #ffffff,
-    inset -1px -1px 0 var(--border-inner),
-    2px 2px 4px rgba(0, 0, 0, 0.2);
+  border: 2px outset var(--border-outer);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 .window-title {

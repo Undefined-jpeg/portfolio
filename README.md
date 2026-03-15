@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CHAT REVIVE | Roblox Studio Portfolio
 
 A Windows 98 themed portfolio showcasing Roblox Studio builds. Mobile-first, vertical layout inspired by straw.page.
@@ -23,3 +24,6 @@ A Windows 98 themed portfolio showcasing Roblox Studio builds. Mobile-first, ver
    - Click Deploy
 
 Your site will be live at `your-project.vercel.app`.
+=======
+# portfolio
+>>>>>>> efafbd87e32ab781809be55f87f162f207cebc75
